@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T07:12:00.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="14.6.9" etag="dhf_F6r_p3fgLlRoDCCB" type="github"><diagram id="jYLw_XX82FBO1cOjav9N">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-08T07:25:55.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="_nUzUNS5KDN6XI28R30T" version="14.6.9" type="github">
+  <diagram id="jYLw_XX82FBO1cOjav9N" name="Page-1">
+    <mxGraphModel dx="788" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-31" value="React component&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-37" value="React-query&#xa;" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
