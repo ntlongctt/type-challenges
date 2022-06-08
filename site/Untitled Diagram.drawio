@@ -1,14 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T07:25:55.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="_nUzUNS5KDN6XI28R30T" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T08:49:33.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="3lcjlfFyoLVmvdiUtJ02" version="14.6.9" type="github">
   <diagram id="jYLw_XX82FBO1cOjav9N" name="Page-1">
-    <mxGraphModel dx="788" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aTiMxj1eEBTW5mWEzj1a-31" value="React component&#xa;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="60" y="160" width="140" height="50" as="geometry" />
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTiMxj1eEBTW5mWEzj1a-64" target="aTiMxj1eEBTW5mWEzj1a-67">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aTiMxj1eEBTW5mWEzj1a-37" value="React-query&#xa;" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="120" height="120" as="geometry" />
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTiMxj1eEBTW5mWEzj1a-64" target="aTiMxj1eEBTW5mWEzj1a-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="608" y="503.39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-64" value="Internect connection detector" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.iconscout.com/icon/premium/png-256-thumb/internet-2102080-1768387.png;" vertex="1" parent="1">
+          <mxGeometry x="560" y="557.8199999999999" width="96" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="177" as="sourcePoint" />
+            <mxPoint x="320" y="177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-45" value="repare request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTiMxj1eEBTW5mWEzj1a-44">
+          <mxGeometry x="-0.1725" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTiMxj1eEBTW5mWEzj1a-37" target="aTiMxj1eEBTW5mWEzj1a-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="165" />
+              <mxPoint x="20" y="470" />
+              <mxPoint x="402" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-59" value="transform data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTiMxj1eEBTW5mWEzj1a-56">
+          <mxGeometry x="-0.1108" y="-1" relative="1" as="geometry">
+            <mxPoint x="39" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-37" value="React-query&#xa;" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg;imageBorder=#000000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTiMxj1eEBTW5mWEzj1a-38" target="aTiMxj1eEBTW5mWEzj1a-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="373" y="270" />
+              <mxPoint x="140" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-43" value="fetch, mutate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTiMxj1eEBTW5mWEzj1a-42">
+          <mxGeometry x="-0.2051" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-38" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://miro.medium.com/max/1200/1*WA_9JsyqFkge2HwYKcdJQw.png;labelBorderColor=#000000;imageBorder=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="203.33" height="143.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="143" as="sourcePoint" />
+            <mxPoint x="580" y="148" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-48" value="send request&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTiMxj1eEBTW5mWEzj1a-47">
+          <mxGeometry x="-0.3294" relative="1" as="geometry">
+            <mxPoint x="13" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="153" as="sourcePoint" />
+            <mxPoint x="150" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-58" value="transform data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTiMxj1eEBTW5mWEzj1a-57">
+          <mxGeometry x="0.1431" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-39" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn-icons-png.flaticon.com/512/3094/3094456.png;imageBorder=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-40" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560;" vertex="1" parent="1">
+          <mxGeometry x="416" y="463.39" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="aTiMxj1eEBTW5mWEzj1a-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="182" as="sourcePoint" />
+            <mxPoint x="410" y="182" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-50" value="send reponse" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTiMxj1eEBTW5mWEzj1a-49">
+          <mxGeometry x="-0.1216" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-41" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://res.cloudinary.com/deop9ytsv/image/upload/v1542422606/spring-boot-icon0_cf21dec4-5056-b3a8-49c015fd3bde6cb5.png;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="91.84" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-51" value="Local storage" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://w1.pngwing.com/pngs/65/762/png-transparent-icon-database-data-storage-share-icon-computer-data-storage-black-and-white-line-circle-angle.png;" vertex="1" parent="1">
+          <mxGeometry x="770" y="390" width="47.32" height="50.43" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-54" value="" style="endArrow=classic;startArrow=classic;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="aTiMxj1eEBTW5mWEzj1a-51" target="aTiMxj1eEBTW5mWEzj1a-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="573.39" as="sourcePoint" />
+            <mxPoint x="630" y="433.39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-55" value="Persistant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTiMxj1eEBTW5mWEzj1a-54">
+          <mxGeometry x="0.0621" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-61" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="aTiMxj1eEBTW5mWEzj1a-40" target="aTiMxj1eEBTW5mWEzj1a-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="480" as="sourcePoint" />
+            <mxPoint x="290" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-62" value="shared state" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aTiMxj1eEBTW5mWEzj1a-61">
+          <mxGeometry x="-0.0623" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-63" value="internet hook, check internet status, reject when offline" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.iconscout.com/icon/premium/png-256-thumb/hook-2419573-2040437.png;whiteSpace=wrap;labelBorderColor=#000000;horizontal=1;align=center;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-67" value="Tracking internet connection, then update the status into globla state" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="623.39" width="135" height="76.61" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aTiMxj1eEBTW5mWEzj1a-74" target="aTiMxj1eEBTW5mWEzj1a-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTiMxj1eEBTW5mWEzj1a-74" value="Notification Component, subscribe the store and show/hide notification&#xa;" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://toppng.com/uploads/preview/facebook-bell-notification-icon-facebook-notification-icon-115533968929v06ejw22d.png;whiteSpace=wrap;labelBorderColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="550" width="78.16" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
